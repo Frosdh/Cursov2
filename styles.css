@@ -6,7 +6,7 @@ body {
     background-color: #d0f0c0;
 }
 
-.header, .footer {
+.header {
     text-align: center;
     background-color: #f0f0f0;
     padding: 10px 0;
@@ -80,6 +80,10 @@ nav.menu ul li a:hover {
 h1 {
     text-align: center;
 }
+h2 {
+    text-align: center;
+}
+
 
 .buttons {
     text-align: center;
@@ -139,4 +143,7 @@ th {
 .footer a {
     color: white;
     text-decoration: none;
+}
+.tag1{
+    color: #ee0505;
 }
